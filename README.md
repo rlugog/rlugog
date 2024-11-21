@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @rlugog
-- 👀 I’m interested in tech, economics, music and sports...
-- 🌱 I’m currently learning python, SQL, Tableu and other tools to analize data...
-- 💞️ I’m looking to collaborate on new projects to earn experience from the community...
-- 📫 How to reach me rlugog96@gmail.com...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: The only constant thing in life is change...
+# 👋 Hi, I'm Rodrigo
 
-<!---
-rlugog/rlugog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+🎯 **About Me**  
+- 🌱 Currently learning **Python**, **SQL**, and **Tableau** to analyze and visualize data.  
+- 📊 Passionate about transforming raw data into actionable insights.  
+- 🎵 Tech enthusiast with a love for **economics**, **music**, and **sports**.  
+
+💻 **What I Do**  
+- 🧑‍💻 Building projects focused on **data analysis** and **automation**.  
+- 🤝 Open to collaborating on **open-source** projects to gain experience and contribute to the community.  
+
+📫 **How to Reach Me**  
+- 💌 Email: [rlugog96@gmail.com](rlugog96@gmail.com)  
+- 🔗 LinkedIn: [www.linkedin.com/in/rodrigo-lugo110496](www.linkedin.com/in/rodrigo-lugo110496)  
+
+💡 **Fun Fact**  
+- ⚡ The only constant in life is **change**, and I embrace it through continuous learning.  
+
 --->
