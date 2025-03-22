@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rlugog/rlugog/main/Banner%20github.png" alt="Rodrigo Lugo - GitHub Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/rlugog/rlugog/main/Banner_github.png" alt="Rodrigo Lugo - GitHub Banner" width="100%" />
 </p>
 
 # 👋 Hi, I'm Rodrigo Lugo!
